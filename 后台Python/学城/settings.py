@@ -134,3 +134,5 @@ REST_FRAMEWORK = {
 
 CORS_METHODS = 'PUT,DELETE,POST'
 CORS_HEADERS = 'Content-Type'
+
+LUFFY_SHOPPING_CAR = 'shopping_car_%s_%s'
